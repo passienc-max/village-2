@@ -1,0 +1,172 @@
+{
+  "project_name": "THE VILLAGE — A Single-Parent & Family Support Network",
+  "archetype": "ARCHETYPE 1: ORGANIC & EARTHY (Trust, Growth, Calm) blended with Swiss Editorial Precision",
+  "philosophy": "It takes a village. Give what you can. Receive what you need. Nobody has to do it alone.",
+  "design_vision": "Awwwards Site of the Day level editorial storytelling for a mutual aid network. Eliminates transactional coldness and patronizing charity vibes in favor of dignified solidarity, warm human textures, tactile paper-like grain, asymmetric Swiss grid tension, and reciprocal dignity.",
+  "typography": {
+    "font_family_heading": "'Playfair Display', serif, Georgia",
+    "font_family_body": "'Plus Jakarta Sans', system-ui, -apple-system, sans-serif",
+    "font_family_mono": "'JetBrains Mono', 'Fira Code', monospace",
+    "headline_rules": {
+      "h1": "text-4xl sm:text-5xl lg:text-6xl font-normal tracking-tight font-serif text-[#1C1D18]",
+      "h2": "text-2xl sm:text-3xl lg:text-4xl font-normal tracking-tight font-serif text-[#1C1D18]",
+      "h3": "text-xl sm:text-2xl font-medium tracking-normal text-[#1C1D18]",
+      "h4": "text-lg sm:text-xl font-medium text-[#1C1D18]",
+      "subtitle": "text-lg sm:text-xl font-light leading-relaxed text-[#5A5C50]",
+      "overline": "text-xs uppercase tracking-[0.22em] font-mono font-medium text-[#8D5B4C]",
+      "body": "text-base sm:text-lg leading-relaxed text-[#4A4C40]"
+    },
+    "forbidden_fonts": [
+      "Inter for headings",
+      "Comic Sans",
+      "Space Grotesk"
+    ]
+  },
+  "color_palette": {
+    "background_primary": "#FBF9F5",
+    "background_secondary": "#F3EFEA",
+    "background_surface": "#FFFFFF",
+    "background_dark_contrast": "#1A1C16",
+    "text_primary": "#1A1C16",
+    "text_muted": "#5A5C50",
+    "text_subtle": "#87897C",
+    "accent_terracotta": "#B85338",
+    "accent_terracotta_hover": "#A2442C",
+    "accent_sage": "#4E6B56",
+    "accent_sage_light": "#E9EFEA",
+    "accent_ochre": "#D68C32",
+    "accent_clay": "#7C4E40",
+    "border_subtle": "rgba(28, 29, 24, 0.09)",
+    "border_medium": "rgba(28, 29, 24, 0.16)",
+    "card_warm": "#FAF7F2",
+    "pill_highlight": "#F0EAE1"
+  },
+  "surface_strategy": {
+    "header": "Crystal Glass with warm beige tint (backdrop-blur-xl bg-[#FBF9F5]/85 border-b border-[#1A1C16]/10)",
+    "cards": "Subtle 1px border (#1A1C16/10), flat matte finish with warm off-white fill, soft ambient hover lift (-translate-y-1 shadow-sm)",
+    "badges": "Pill-shaped with delicate 1px border (#1A1C16/10) and muted earthy tint",
+    "footer": "High-contrast dark obsidian/forest (#1A1C16) with warm ivory typography for theatrical closing",
+    "texture": "Organic film noise/grain layer overlay (opacity 0.035) to eliminate digital sterility"
+  },
+  "curated_image_assets": {
+    "hero_single_parent": {
+      "url": "https://images.unsplash.com/photo-1679108853755-10a20562ec61?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2OTV8MHwxfHNlYXJjaHw0fHxzaW5nbGUlMjBtb3RoZXIlMjBjaGlsZCUyMHNtaWxpbmd8ZW58MHx8fHwxNzkxNDI0NDk2fDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Mother holding child with radiant smile in golden evening light",
+      "usage": "Hero focal visual, showcasing intimacy, warmth, and relief"
+    },
+    "community_support": {
+      "url": "https://images.unsplash.com/photo-1542323228-002ac256e7b8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxOTB8MHwxfHNlYXJjaHw0fHxjb21tdW5pdHklMjB2b2x1bnRlZXJpbmclMjBzaGFyaW5nfGVufDB8fHx8MTc5MTQyNDQ5Nnww&ixlib=rb-4.1.0&q=85",
+      "alt": "Community hands stacked together in unity",
+      "usage": "The Village transformation and collective power section"
+    },
+    "family_kitchen_nurture": {
+      "url": "https://images.unsplash.com/photo-1628191012047-e789922abfdf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1ODF8MHwxfHNlYXJjaHwxfHxjb3p5JTIwd2FybSUyMGZhbWlseSUyMGtpdGNoZW58ZW58MHx8fHwxNzkxNDI0NTAwfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Mother preparing meal with child sitting on kitchen counter",
+      "usage": "Services coordination and village daily rhythm visual"
+    },
+    "small_business_baker": {
+      "url": "https://images.unsplash.com/photo-1627662057433-57fe8756a4f0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1ODF8MHwxfHNlYXJjaHwzfHxjb3p5JTIwd2FybSUyMGZhbWlseSUyMGtpdGNoZW58ZW58MHx8fHwxNzkxNDI0NTAwfDA&ixlib=rb-4.1.0&q=85",
+      "alt": "Artisan baker proudly displaying freshly baked goods",
+      "usage": "Village Business designation showcase (single parent entrepreneurs)"
+    },
+    "food_packing_aid": {
+      "url": "https://images.unsplash.com/photo-1628717341663-0007b0ee2597?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxOTB8MHwxfHNlYXJjaHwxfHxjb21tdW5pdHklMjB2b2x1bnRlZXJpbmclMjBzaGFyaW5nfGVufDB8fHx8MTc5MTQyNDQ5Nnww&ixlib=rb-4.1.0&q=85",
+      "alt": "Community volunteers carefully packing fresh grocery bags",
+      "usage": "Food and household logistics aid representation"
+    }
+  },
+  "sections_blueprint": [
+    {
+      "section_id": "navigation",
+      "component": "Navbar",
+      "description": "Sticky crystal glass header with brand mark 'THE VILLAGE', tagline eyebrow 'Takes a Village', quick anchors to Exchange, Services, Safety, Businesses, Vision, and dual CTA buttons ('Join as Parent' / 'Become a Sponsor'). Includes mobile drawer."
+    },
+    {
+      "section_id": "hero",
+      "component": "HeroSection",
+      "description": "Kinetic editorial hero. Primary display serif: 'A parent should not have to do everything alone.' Tagline: 'It takes a village. Give what you can. Receive what you need.' Side-by-side asymmetric composition with genuine photography, live ticker of verified village members, and quick interactive trigger to waitlist form."
+    },
+    {
+      "section_id": "editorial_ribbon",
+      "component": "EditorialMarquee",
+      "description": "Slow, organic running ticker with low-contrast earthy tones highlighting core principles: 'Reciprocal Dignity • 0% Transaction Fees • Vetted Safe Neighbors • Zero Stigma • Circles of Care • Child-First Trust • Real Mutual Aid'."
+    },
+    {
+      "section_id": "exchange_points_system",
+      "component": "VillageExchange",
+      "description": "Interactive interactive simulator of 'The Village Exchange' points system. Two tabs: 'Give what you can' (grocery runs, tutoring, driving, laundry access) and 'Receive what you need' (earned Village Points, no shame, dignified exchange). Shows transparent points-math and real-life scenarios."
+    },
+    {
+      "section_id": "coordinated_services",
+      "component": "ServicesGrid",
+      "description": "Bento-style layout of the 8 core coordinated services: Transportation, Laundry hubs, Food & household resources, School & activity carpools, Technology loans & repairs, Employment & resume coaching, Emotional support phone trees, and Children's life skills masterclasses."
+    },
+    {
+      "section_id": "safety_and_verification",
+      "component": "SafetyPillars",
+      "description": "Comprehensive Trust & Safety architecture: 4-tier verification protocol (Government ID, Criminal background screening, Driver license + active insurance check, extra pediatric/child-facing safety clearances, plus community vouching and peer ratings)."
+    },
+    {
+      "section_id": "business_sponsors",
+      "component": "SponsorEcosystem",
+      "description": "How local businesses anchor the village. Measurable community impact replacing useless advertising: Laundromats sponsoring 500 loads, local grocers underwriting fresh produce trips, hair salons sponsoring interview styling, dental clinics providing pediatric checkups. Interactive 'Impact Simulator' for business owners."
+    },
+    {
+      "section_id": "single_parent_businesses",
+      "component": "VillageBusinessShowcase",
+      "description": "Spotlight on 'Village Business' designation for single-parent micro-entrepreneurs: home bakers, tailors, freelance tutors, auto handymen. Features the circular flywheel: from receiving free laundry to launching a small cleaning service, to sponsoring laundry for the next struggling mother."
+    },
+    {
+      "section_id": "transformation_flywheel",
+      "component": "TransformationStory",
+      "description": "Narrative arc step-by-step scrollytelling component: (1) Needing Help → (2) Receiving Without Stigma → (3) Gaining Breathing Room & Skills → (4) Paying It Forward to Another Family. Real-life testimonial timeline."
+    },
+    {
+      "section_id": "long_term_vision",
+      "component": "PhysicalVillageCenter",
+      "description": "The Architectural Blueprint of the future Physical Community Center: Interactive floorplan map showing Resource Room, Kids Learning Den, Skill Classroom, Professional Interview Prep Hub, Free Laundry Facility, and Quiet Sanctuary."
+    },
+    {
+      "section_id": "waitlist_dual_action",
+      "component": "WaitlistSection",
+      "description": "Working dual-audience waitlist onboarding form connected to backend. Segmented tabs: 'I am a Parent / Family' vs 'I am a Business / Volunteer Sponsor'. Real-time form submission, role-specific tags, instant validation, and sonner toast confirmation."
+    },
+    {
+      "section_id": "footer",
+      "component": "FooterSection",
+      "description": "Dark architectural footer with dramatic typography ('NOBODY HAS TO DO IT ALONE'), community charter principles, emergency resources hotline, privacy safeguards, and copyright."
+    }
+  ],
+  "motion_and_interactivity": {
+    "scroll_reveal": "Framer Motion staggered entrance animations using easeInOut curves (0.4s to 0.7s duration)",
+    "interactive_points_calculator": "Live slider/toggle letting users see: 'If I drive 2 carpools a week = +40 Village Points = 4 free laundry loads + 2 hours math tutoring'",
+    "hover_states": "Crisp 1px border contrast darkening on hover with smooth 200ms ease",
+    "reduced_motion": "Explicitly wrapped with prefers-reduced-motion media query checks"
+  },
+  "testing_attributes": {
+    "rule": "Every button, input, toggle, tab, card, and modal MUST contain kebab-case data-testid attributes",
+    "examples": [
+      "data-testid='navbar-join-button'",
+      "data-testid='waitlist-role-parent-tab'",
+      "data-testid='waitlist-role-business-tab'",
+      "data-testid='waitlist-name-input'",
+      "data-testid='waitlist-email-input'",
+      "data-testid='waitlist-service-select'",
+      "data-testid='waitlist-submit-button'",
+      "data-testid='exchange-calculator-slider'",
+      "data-testid='safety-pillar-id-check'"
+    ]
+  },
+  "backend_integration": {
+    "waitlist_endpoint": "/api/waitlist",
+    "method": "POST",
+    "payload_fields": [
+      "name",
+      "email",
+      "role",
+      "offering",
+      "needs",
+      "city"
+    ]
+  }
+}
